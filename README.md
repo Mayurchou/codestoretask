@@ -1,6 +1,5 @@
 ![Screenshot (71)](https://github.com/Mayurchou/codestoretask/assets/108649101/c5027a5a-6109-4b6f-9d09-7942a27e6361)
 ![Screenshot (72)](https://github.com/Mayurchou/codestoretask/assets/108649101/4df78e2f-a78b-4de2-a0d0-b8db42ae707f)
-![Screenshot (63)](https://github.com/Mayurchou/codestoretask/assets/108649101/e148d745-49f3-4c77-a277-3043d6a24b51)
 ![Screenshot (64)](https://github.com/Mayurchou/codestoretask/assets/108649101/f4d025d1-fe9c-41fc-bfe3-342f0458043d)
 ![Screenshot (65)](https://github.com/Mayurchou/codestoretask/assets/108649101/863e5568-b62e-417f-94a3-c5ec35f3d6ce)
 ![Screenshot (66)](https://github.com/Mayurchou/codestoretask/assets/108649101/8601af0a-cac3-4cda-8400-a5183ab81095)
